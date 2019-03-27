@@ -1,2 +1,4 @@
 # BRGG
-In this project we work on error checking and handling in linux system
+# This is only for test.
+In this project we work on error checking and error handling in linux system.
+we are also work on System calls.
